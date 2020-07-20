@@ -1,0 +1,2 @@
+rootProject.name='ANHP Planner Plugin'
+include ':app'

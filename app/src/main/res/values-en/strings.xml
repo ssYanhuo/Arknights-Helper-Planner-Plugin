@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ANHP Planner Plugin</string>
+    <string name="dialog_title">Planner Plugin</string>
+    <string name="dialog_text">Arknights Helper\'s Planner plugin, switch back to main application to continue initialization.\nAfter you hid this application\'s icon, you can still manage it in you device\'s application manager.</string>
+    <string name="dialog_button">Hide icon</string>
+    <string name="dialog_version">Plugin version: %1$s\nOriginal author: ycremar</string>
+</resources>

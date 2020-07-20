@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">方舟助手-刷图规划插件</string>
+    <string name="dialog_title">刷图规划插件</string>
+    <string name="dialog_text">\t\t\t\t这是明日方舟助手的刷图规划插件包，请前往主程序继续进行初始化。\n\t\t\t\t隐藏图标后，你仍可以在设备的应用管理中找到并管理这个应用。</string>
+    <string name="dialog_button">从主屏幕中隐藏图标</string>
+    <string name="dialog_version">插件版本：%1$s\n算法来自：ycremar</string>
+</resources>
