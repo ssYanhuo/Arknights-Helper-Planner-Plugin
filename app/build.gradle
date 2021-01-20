@@ -8,8 +8,8 @@ android {
         applicationId "com.ssyanhuo.akrnightshelper_plannerplugin"
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 2
-        versionName "Beta-0.0.2"
+        versionCode 3
+        versionName "Beta-0.1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
